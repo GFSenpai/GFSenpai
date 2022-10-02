@@ -22,9 +22,9 @@ Meu nome é Gabriel e...
 
 <span align="left">
  
-### <img src="https://github.com/RobsonVinicius/robsonvinicius/blob/master/images/readme/emoji.gif" width="30"> You can find me on:
+### <img src="https://github.com/RobsonVinicius/robsonvinicius/blob/master/images/readme/emoji.gif" width="30"> Me siga nas redes:
 
-[![Linkedin Shield](https://img.shields.io/badge/-Linkedin-2867B2?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/robson-vinicius/)](https://www.linkedin.com/in/robson-vinicius/)
+[![Linkedin Shield](https://img.shields.io/badge/-Linkedin-2867B2?style=for-the-badge&logo=linkedin&logoColor=white&link=https://https://www.linkedin.com/in/gabriel-f-8b3088251//)](https://www.linkedin.com/in/gabriel-f-8b3088251/)
 [![Twitter Shields](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://https://twitter.com/Gf_Senpai/)](https://twitter.com/Gf_Senpai)
 
 
