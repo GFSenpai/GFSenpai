@@ -61,11 +61,7 @@ Meu nome é Gabriel e...
 
 <br>
 
- <div>
-  <a href="https://github.com/GFSenpai">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GFSenpai&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GFSenpai&layout=compact&langs_count=6&theme=tokyonight"/>
-   
-</div>
+| <a href="https://github.com/anuraghazra/convoychat"><img align="center" src="https://github-readme-stats.vercel.app/api?username=RobsonVinicius&hide=contribs&show_icons=true&include_all_commits=true&layout=compact&hide_border=true&theme=great-gatsby" /></a> | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robsonvinicius&layout=compact&hide_border=true&langs_count=8&hide=TSQL,hack,Rich%20Text%20Format%0A&theme=great-gatsby)](https://github.com/robsonvinicius) |
+| ------------- | ------------- |
 
    ![Snake animation](https://github.com/GFSenpai/GFSenpai/blob/output/github-contribution-grid-snake.svg)
