@@ -76,17 +76,3 @@ My name is Robson and...
 
 ###
 
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=robsonvinicius&repo=UX-Design&hide_border=true&theme=great-gatsby&show_owner")](https://github.com/robsonvinicius/UX-Design)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=robsonvinicius&repo=Scrum&hide_border=true&theme=great-gatsby&show_owner")](https://github.com/robsonvinicius/Scrum)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=robsonvinicius&repo=engenharia-de-requisitos&hide_border=true&theme=great-gatsby&show_owner")](https://github.com/robsonvinicius/engenharia-de-requisitos)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=robsonvinicius&repo=UX-Research&hide_border=true&theme=great-gatsby&show_owner")](https://github.com/robsonvinicius/UX-research)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=robsonvinicius&repo=performance-web&hide_border=true&theme=great-gatsby&show_owner")](https://github.com/robsonvinicius/performance-web)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=robsonvinicius&repo=excel&hide_border=true&theme=great-gatsby&show_owner")](https://github.com/robsonvinicius/excel)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=robsonvinicius&repo=Kanban&hide_border=true&theme=great-gatsby&show_owner")](https://github.com/robsonvinicius/Kanban)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=robsonvinicius&repo=COBIT&hide_border=true&theme=great-gatsby&show_owner")](https://github.com/robsonvinicius/COBIT)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=robsonvinicius&repo=Git&hide_border=true&theme=great-gatsby&show_owner")](https://github.com/robsonvinicius/Git)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=robsonvinicius&repo=ITIL-Foundation&hide_border=true&theme=great-gatsby&show_owner")](https://github.com/robsonvinicius/ITIL-Foundation)
-
-</div>
