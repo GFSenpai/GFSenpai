@@ -2,7 +2,7 @@
 Hellooo! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 -->
 
-<img src="https://github.com/GFSenpai/GFSenpai/tree/main/readme/animation-readme-7.gif" min-width="400px" max-width="600px" width="450px" align="right" alt="image">
+<img src="https://github.com/RobsonVinicius/robsonvinicius/blob/master/images/readme/emoji.gif" min-width="400px" max-width="600px" width="450px" align="right" alt="image">
 
 
 <span align="left">
