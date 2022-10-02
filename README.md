@@ -1,6 +1,5 @@
 <!--
 Hellooo! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
- # Robson Vinicius de Oliveira 
 -->
 
 <img src="images/readme/animations/animation-readme-7.gif" min-width="400px" max-width="600px" width="450px" align="right" alt="image">
@@ -12,11 +11,10 @@ Hellooo! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" w
 
 ### Welcome to my profile
  
-My name is Robson and...  
-
- 📊 I'm working with Design, UI/UX and Front End<br>
- 📚 Currently studying UX/UI and ReactJS<br>
- 🏡 Brazilian, Based in Curitiba-PR<br>
+Meu nome é Gabriel e...
+ 
+ 📚 Atualmente estudando Java , Phyton e Banco de dados
+ 🏡 Brasileiro, morando no Rio de Janeiro 
  
 </span>
 
