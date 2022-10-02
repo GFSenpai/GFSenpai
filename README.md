@@ -2,7 +2,7 @@
 Hellooo! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 -->
 
-<img src="https://github.com/RobsonVinicius/robsonvinicius/tree/master/images/readme/animations/animation-readme-7.gif" min-width="400px" max-width="600px" width="450px" align="right" alt="image">
+<img src="https://github.com/GFSenpai/GFSenpai/blob/main/images/readme/animation-readme-7.gif" min-width="400px" max-width="600px" width="450px" align="right" alt="image">
 
 
 <span align="left">
@@ -22,7 +22,7 @@ Meu nome é Gabriel e...
 
 <span align="left">
  
-### <img src="https://github.com/RobsonVinicius/robsonvinicius/blob/master/images/readme/emoji.gif" width="30">Você pode me encontrar em:
+### <img src="https://github.com/GFSenpai/GFSenpai/blob/main/images/readme/emoji.gif" width="30">Você pode me encontrar em:
 
 [![Linkedin Shield](https://img.shields.io/badge/-Linkedin-2867B2?style=for-the-badge&logo=linkedin&logoColor=white&link=https://https://www.linkedin.com/in/gabriel-f-8b3088251//)](https://www.linkedin.com/in/gabriel-f-8b3088251/)
 [![Twitter Shields](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://https://twitter.com/Gf_Senpai/)](https://twitter.com/Gf_Senpai)
@@ -33,7 +33,7 @@ Meu nome é Gabriel e...
 
 ##
 
-### <img src="https://github.com/RobsonVinicius/robsonvinicius/blob/master/images/readme/lightning.gif" width="15"> Linguagens e ferramentas:
+### <img src="https://github.com/GFSenpai/GFSenpai/blob/main/images/readme/lightning.gif" width="15"> Linguagens e ferramentas:
 
 ###
 
@@ -57,7 +57,7 @@ Meu nome é Gabriel e...
 
 ##
 
-### <img src="https://github.com/RobsonVinicius/robsonvinicius/blob/master/images/readme/chart-growth-lineal.gif" width="26"> Stats:
+### <img src="https://github.com/GFSenpai/GFSenpai/blob/main/images/readme/chart-growth-lineal.gif" width="26"> Stats:
 
 <br>
 
