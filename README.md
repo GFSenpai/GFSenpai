@@ -1,5 +1,6 @@
 <!--
 Hellooo! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+ # Robson Vinicius de Oliveira 
 -->
 
 <img src="images/readme/animations/animation-readme-7.gif" min-width="400px" max-width="600px" width="450px" align="right" alt="image">
@@ -26,7 +27,7 @@ Meu nome é Gabriel e...
 
 [![Linkedin Shield](https://img.shields.io/badge/-Linkedin-2867B2?style=for-the-badge&logo=linkedin&logoColor=white&link=https://https://www.linkedin.com/in/gabriel-f-8b3088251//)](https://www.linkedin.com/in/gabriel-f-8b3088251/)
 [![Twitter Shields](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://https://twitter.com/Gf_Senpai/)](https://twitter.com/Gf_Senpai)
-[![Instagram Shields](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=black//https://www.instagram.com/gabrielfariaaaaa/)](https://www.instagram.com/gabrielfariaaaaa/)
+[![Instagram Shields](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white//https://www.instagram.com/gabrielfariaaaaa/)](https://www.instagram.com/gabrielfariaaaaa/)
 
 
 </span>
