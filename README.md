@@ -13,7 +13,7 @@ Hellooo! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" w
  
 Meu nome é Gabriel e...
  
- 📚 Atualmente estudando Java , Phyton e Banco de dados <br>
+ 📚 Atualmente estudando para aprimorar habilidades atuais <br>
  🏡 Brasileiro, morando no Rio de Janeiro <br>
  
 </span>
