@@ -26,7 +26,7 @@ Meu nome é Gabriel e...
 
 [![Linkedin Shield](https://img.shields.io/badge/-Linkedin-2867B2?style=for-the-badge&logo=linkedin&logoColor=white&link=https://https://www.linkedin.com/in/gabriel-f-8b3088251//)](https://www.linkedin.com/in/gabriel-f-8b3088251/)
 [![Twitter Shields](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://https://twitter.com/Gf_Senpai/)](https://twitter.com/Gf_Senpai)
-[![Instagram Shields](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white//https://www.instagram.com/gabrielfariaaaaa/)](https://www.instagram.com/gabrielfariaaaaa/)
+[![Instagram Shields](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white//https://https://www.instagram.com/gabriel404dev/)](https://https://www.instagram.com/gabriel404dev/)
 
 
 </span>
