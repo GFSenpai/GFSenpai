@@ -22,7 +22,7 @@ My name is Gabriel and...
 
 <span align="left">
  
-### <img src="https://github.com/GFSenpai/GFSenpai/blob/main/images/readme/emoji.gif" width="30">Você pode me encontrar em:
+### <img src="https://github.com/GFSenpai/GFSenpai/blob/main/images/readme/emoji.gif" width="30">You can find me on:
 
 [![Linkedin Shield](https://img.shields.io/badge/-Linkedin-2867B2?style=for-the-badge&logo=linkedin&logoColor=white&link=https://https://www.linkedin.com/in/gabriel-f-8b3088251//)](https://www.linkedin.com/in/gabriel-f-8b3088251/)
 [![Twitter Shields](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://https://twitter.com/Gf_Senpai/)](https://twitter.com/Gf_Senpai)
@@ -33,7 +33,7 @@ My name is Gabriel and...
 
 ##
 
-### <img src="https://github.com/GFSenpai/GFSenpai/blob/main/images/readme/lightning.gif" width="15"> Linguagens e ferramentas:
+### <img src="https://github.com/GFSenpai/GFSenpai/blob/main/images/readme/lightning.gif" width="15"> Languages & tools:
 
 ###
 
