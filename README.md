@@ -9,12 +9,12 @@ Hellooo! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" w
 
 <img src="images/readme/hello.gif" width="100" alt="image"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50">
 
-### Bem-vindo ao meu perfil
+### Welcome to my profile
  
-Meu nome é Gabriel e...
+My name is Gabriel and...
  
- 📚 Atualmente estudando para aprimorar habilidades atuais <br>
- 🏡 Brasileiro, morando no Rio de Janeiro <br>
+ 📚 Currently studying to enhance current skills <br>
+ 🏡 Brazilian, living in Rio de Janeiro <br>
  
 </span>
 
